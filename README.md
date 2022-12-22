@@ -53,7 +53,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 # OUTPUT:
-![OUTPUT](./images/Screenshot_20221215_015229.png)
+![OUTPUT](./images/m.png)
 
 # RESULT:
 
